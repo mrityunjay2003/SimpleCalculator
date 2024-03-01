@@ -7,6 +7,7 @@ I deployed this on vercel and here is the domain [Calculator](https://calculator
 ---
 Here is the image of the calculator(will change the UI too).
 
-![[Pasted image 20240302034250.png]]
+![calculator](https://github.com/mrityunjay2003/SimpleCalculator/assets/77834210/7644f234-7678-42cf-8ed0-ad411a66ce0f)
+
 
 
