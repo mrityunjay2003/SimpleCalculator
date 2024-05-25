@@ -1,7 +1,7 @@
 import { useReducer } from "react";
 import { DigitButton } from "./DigitButton";
-import "./styles.css";
 import { OperationButton } from "./OperationButton";
+import "./styles.css";
 
 export const ACTIONS = {
   ADD_DIGIT: "add-digit",
@@ -22,8 +22,10 @@ function reducer(state, { type, payload }) {
         };
       }
       if (payload.digit === "0" && state.currentOperand === "0") return state;
-      if (payload.digit === "." && state.currentOperand.includes("."))
+      if (payload.digit === "." && state.currentOperand && state.currentOperand.includes(".")) {
         return state;
+      }
+
       return {
         ...state,
         currentOperand: `${state.currentOperand || ""}${payload.digit}`,

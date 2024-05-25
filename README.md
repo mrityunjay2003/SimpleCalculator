@@ -7,6 +7,6 @@ I deployed this on vercel and here is the domain [Calculator](https://calculator
 ---
 Here is the image of the calculator(will change the UI too).
 
-![[Pasted image 20240302034250.png]]
+![[calculator.png]]
 
 
