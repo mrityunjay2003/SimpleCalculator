@@ -5,8 +5,8 @@ I made this simple arithmetic calculator in ReactJS and will and more functional
 I deployed this on vercel and here is the domain [Calculator](https://calculator-theta-beryl.vercel.app/).
 
 ---
+
 Here is the image of the calculator(will change the UI too).
 
+<<<<<<< HEAD
 ![[calculator.png]]
-
-
