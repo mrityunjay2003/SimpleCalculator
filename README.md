@@ -8,5 +8,5 @@ I deployed this on vercel and here is the domain [Calculator](https://calculator
 
 Here is the image of the calculator(will change the UI too).
 
-<<<<<<< HEAD
-![[calculator.png]]
+
+![image](https://github.com/mrityunjay2003/SimpleCalculator/assets/77834210/d214dd00-5ed0-4c36-8ec9-4b2475191441)
